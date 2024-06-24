@@ -11,10 +11,10 @@ Experience the game live: [Play Tic-Tac-Toe](https://rissonthalia.github.io/TIC-
 Here are some screenshots of the NewsApp in action:
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](images/home.png)
 
 ### Game zone
-![Sentiment Analysis](screenshots/screenshots.png)
+![Sentiment Analysis](images/gamezone.png)
 
 ## Features
 
