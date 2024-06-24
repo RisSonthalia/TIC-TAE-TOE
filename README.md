@@ -6,6 +6,16 @@ Welcome to the AI-Powered Tic-Tac-Toe game! This classic game is implemented usi
 
 Experience the game live: [Play Tic-Tac-Toe](https://rissonthalia.github.io/TIC-TAE-TOE/)
 
+## Screenshots
+
+Here are some screenshots of the NewsApp in action:
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Game zone
+![Sentiment Analysis](screenshots/screenshots.png)
+
 ## Features
 
 - **AI Opponent**: Play against a challenging AI that uses the Minimax algorithm.
