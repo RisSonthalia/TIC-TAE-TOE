@@ -4,7 +4,7 @@ Welcome to the AI-Powered Tic-Tac-Toe game! This classic game is implemented usi
 
 ## Live Demo
 
-Experience the game live: [Play Tic-Tac-Toe](https://rissonthalia.github.io/TICTAETOE/)
+Experience the game live: [Play Tic-Tac-Toe](https://rissonthalia.github.io/TIC-TAE-TOE/)
 
 ## Features
 
