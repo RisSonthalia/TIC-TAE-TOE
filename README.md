@@ -14,7 +14,7 @@ Here are some screenshots of the NewsApp in action:
 ![Home Page](images/home.png)
 
 ### Game zone
-![Sentiment Analysis](images/gamezone.png)
+![Sentiment Analysis](images/gamespace.png)
 
 ## Features
 
