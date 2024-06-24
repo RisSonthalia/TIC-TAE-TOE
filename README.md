@@ -52,7 +52,7 @@ To run the game locally:
 
 2. **Navigate to the Project Directory**:
    ```
-     cd TICTAETOE
+     cd TIC-TAE-TOE
      ```
 3. **Launch the Game**:
 - Double-click on `index.html`, or
@@ -61,8 +61,8 @@ To run the game locally:
 ## Project Structure
 
 - `index.html`: Main game structure and layout
-- `styles.css`: Styling and responsive design
-- `script.js`: Game logic and AI implementation
+- `css/styles.css`: Styling and responsive design
+- `js/script.js`: Game logic and AI implementation
 
 ## The Minimax Algorithm
 
