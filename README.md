@@ -26,11 +26,10 @@ Experience the game live: [Play Tic-Tac-Toe](https://rissonthalia.github.io/TIC-
 2. Choose an option:
    - "Start AI" to let the AI make the first move
    - "Start You" to make the first move yourself
-3. Select your symbol (X or O).
-4. If you chose "Start You", click on an empty cell to make your move. If you chose "Start AI", wait for the AI to make its move.
-5. Take turns with the AI, clicking on empty cells to place your symbol.
-6. The game continues until one player wins by getting three of their symbols in a row (horizontally, vertically, or diagonally), or until the board is full, resulting in a draw.
-7. Once the game ends, you can restart to play again!
+3. If you chose "Start You", click on an empty cell to make your move. If you chose "Start AI", wait for the AI to make its move.
+4. Take turns with the AI, clicking on empty cells to place your symbol.
+7. The game continues until one player wins by getting three of their symbols in a row (horizontally, vertically, or diagonally), or until the board is full, resulting in a draw.
+8. Once the game ends, you can restart to play again!
 
 ## Installation
 
