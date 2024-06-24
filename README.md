@@ -13,7 +13,7 @@ Here are some screenshots of the Tic-Tac-Toe Game:
 ### Home Page
 ![Home Page](images/home.png)
 
-### Game zone
+### Game Space
 ![game_space](images/gamespace.png)
 
 ## Features
