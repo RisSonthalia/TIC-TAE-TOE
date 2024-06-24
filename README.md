@@ -46,7 +46,7 @@ To run the game locally:
 1. **Get the Code**:
    - Option 1: Clone the repository
      ```
-     git clone https://github.com/RisSonthalia/TICTAETOE.git
+     git clone https://github.com/RisSonthalia/TIC-TAE-TOE.git
      ```
    - Option 2: Download the ZIP file and extract it
 
